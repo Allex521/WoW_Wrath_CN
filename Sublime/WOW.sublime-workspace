@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/addon/elvui-13.78/ElvUI_Libraries/Core/Ace3/AceAddon-3.0/AceAddon-3.0.lua",
+		"/E/addon/elvui-13.78/ElvUI/Core/init.lua",
+		"/E/addon/elvui-13.78/ElvUI/ElvUI_Mainline.toc",
+		"/E/addon/elvui-13.78/ElvUI_Libraries/Core/oUF/private.lua",
+		"/E/addon/elvui-13.78/t1.lua",
+		"/E/addon/elvui-13.78/ElvUI/Bindings.xml",
+		"/E/addon/elvui-13.78/ElvUI/Core/Modules/ActionBars/ActionBars.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TextureViewer/TextureViewer.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TextureAtlasViewer/TextureAtlasViewer_Wrath.toc",
+		"/E/NDui/Core/Functions.lua",
+		"/E/temp/listfile.txt",
+		"/E/!Pig/Error.lua",
+		"/C/Users/Ethan/AppData/Local/Temp/Rar$DIa8900.13135.rartemp/MSBTOptionsPopups.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TalentEmu/TalentEmu.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TalentEmu/TalentEmu.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/XLoot_Monitor/XLoot_Monitor.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/XLoot_Group/XLoot_Group.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/XLoot_Master/XLoot_Master.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/XLoot/XLoot.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/XLoot_Frame/XLoot_Frame.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/XLoot_Options/XLoot_Options.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MSBTOptions/MSBTOptionsPopups.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MSBTOptions/MSBTOptionsMain.lua",
+		"/E/NDui/Modules/Maps/WorldMap.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn/PawnUI.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Pawn/PawnUI.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ItemRackOptions/ItemRackOptions.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TidyPlates_ThreatPlates/Options.lua",
+		"/E/Tukui/Libs/oUF_Retail/private.lua",
+		"/E/Tukui/Libs/oUF_Retail/ouf.lua",
+		"/E/Tukui/Libs/oUF_Retail/init.lua",
+		"/E/Tukui/Tukui-Mainline.toc",
+		"/E/temp/README.txt",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/!ALibs/embeds.xml",
+		"/E/TidyPlates_ThreatPlates/Widgets/AurasWidget.lua",
+		"/E/TidyPlates_ThreatPlates/Media.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Decursive/Dcr_DIAG.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Questie/Questie-WOTLKC.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Questie/embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TomTom/TomTom_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TidyPlates_ThreatPlates/TidyPlates_ThreatPlates.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TidyPlates_ThreatPlates/Libs/Libs.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TidyPlates_ThreatPlates/Locales/Locales.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TargetNameplateIndicator/TargetNameplateIndicator_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TalentEmu/TalentEmu-Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/TalentEmu/Locale/Locale.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Recount/Recount.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Recount/embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/RangeDisplay_Options/RangeDisplay_Options_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/RangeDisplay/RangeDisplay_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Questie/Libs/Bindings.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Quartz/Quartz_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Quartz/locale/locale.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/OmniCC/OmniCC_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/OmniCC_Config/OmniCC_Config_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/OmniCC_Config/localization/localization.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/OmniCC/localization/localization.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/OmniCC_Config/OmniCC_Config.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MikScrollingBattleText/MikScrollingBattleText.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MSBTOptions/Localization/localization.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MikScrollingBattleText/Localization/localization.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MikScrollingBattleText/Localization/localization.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MerInspect/MerInspect.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MerInspect/libs/lib.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/MerInspect/locales/locales.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ls_Toasts/ls_Toasts.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ls_Toasts/locales/_locales.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ls_Toasts/embeds/_embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/LoseControl/LoseControl.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ItemRack/ItemRack.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ItemRackOptions/ItemRackOptions.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/GatherMate2/GatherMate2_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/DevTool/DevTool_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/DevTool/Libs/embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator/Auctionator_Wrath.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Decursive/Decursive.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Decursive/embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Decursive/Localization/load.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/BugSack/BugSack.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator/Locales/Manifest.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Auctionator/Assets_Classic.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ButtonForge/ButtonForge.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/ButtonForge/TBC_Changes.txt",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/!BugGrabber/!BugGrabber.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/!!!Libs/embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/!!!Libs/!!!Libs.toc",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/NDui/Modules/Misc/Notifications.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/!!!Libs/TaintLess.xml",
+		"/E/AddOns/Libs/Deprecated.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/BugSack/embeds.xml",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/!BugGrabber/BugGrabber.lua",
+		"/D/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns/Decursive/Libs/BugGrabber/BugGrabber.lua"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"OnEmbedEnable",
+			"OnEmbedInitialize",
+			"Embed",
+			"OnEmbedInitialize",
+			"Embed",
+			"ELVUIBAR2BUTTON",
+			"ELVUIBAR2BUTTON1",
+			"BAR2",
+			"BINDING_HEADER_ELVUI",
+			"ELVUIBAR2BUTTON1",
+			"ShowWith",
+			"RegisterEvents",
+			"SLASH",
+			"DB.bdTex",
+			"bgFile",
+			"PIGSetBackdrop",
+			"SetBackdrop",
+			"SetBackDrop",
+			"IsWrathClassic",
+			"UISpecialFrames",
+			"_G",
+			"UISpecialFrames",
+			"PawnUIFrame:Hide()",
+			"PawnUIFrame:Hide",
+			"PawnUIFrame",
+			"OnKeyDown",
+			"ESCAPE",
+			"SetEscapeHandler",
+			"OnEscapePressed",
+			"HideUIPanel",
+			"PawnUIStringDialog_CancelButton_OnClick",
+			"OnEscapePressed",
+			"HideUIPanel",
+			"xml",
+			"XLootFakeFrame",
+			"Steel",
+			"Smooth",
+			"Steel",
+			"steel",
+			"_LoadOrderedFiles",
+			"deDE",
+			"_LoadedFiles",
+			"Embeds",
+			"ace3",
+			"OptionalDeps",
+			"_LoadedFiles",
+			"_LoadOrderedFiles",
+			"DecursiveEmbedsxmlCheck",
+			"Credits",
+			"_EmbeddedMode",
+			"DecursiveEmbedsxmlCheck",
+			"DecursiveInEmbeddedMode",
+			"Script",
+			"BigFoot",
+			"parentAddonTable",
+			"addon",
+			"db",
+			"addon:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "WOW.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
